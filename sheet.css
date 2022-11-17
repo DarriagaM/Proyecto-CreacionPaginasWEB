@@ -1,0 +1,57 @@
+
+html, body{
+    height: 100%;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+}
+
+#tableMenu{
+    width: 100%; 
+}
+
+#tdLogo{
+    padding-left: 5%;
+    width: 40%;
+}
+
+.tdOpcMenu{
+    width: 15%;
+}
+
+
+#menu{
+    height: 15%;
+    width: 100%;
+}
+
+#cuerpo{
+    height: 70%;
+    width: 100%;
+    padding-top: 5%;
+}
+
+#footer{
+    height: 15%;
+    width: 100%;
+}
+
+#QuienesSomos{
+    font-size: 20px;
+}
+
+#QuienesSomosDiv{
+    margin: 0 auto;
+    width: 50%;
+}
+
+.productos{
+    padding-left: 4%;
+}
+
+
+
+
+
+
+
